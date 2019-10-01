@@ -1,0 +1,6 @@
+[submodule "api-server"]
+	path = api-server
+	url = https://github.com/vcttai-react-learning/_react_streams_project__just_finist_CRUD_api_server.git
+[submodule "client"]
+	path = client
+	url = https://github.com/vcttai-react-learning/_react_streams_project__just_finist_CRUD_client.git
