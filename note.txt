@@ -1,0 +1,7 @@
+Project: Streams
+Description: 
+  - CRUD stream
+  - Using React and Redux
+  - Not include streaming video
+
+This source code is used for Referencing in the future
